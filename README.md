@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sai Rapeti</h1>
 <h3 align="center">Graduate Student in Data Analytics Engineering | Aspiring Data Scientist & Business Intelligence Analyst</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif">
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -8,7 +12,7 @@
 - 💡 Passionate about **Machine Learning, NLP, and Business Intelligence**  
 - 🔭 Currently working on **NLP projects (Text Summarization, LLM fine-tuning)**  
 - 📊 Skilled in **SQL, Tableau, Power BI, Python, PyTorch, TensorFlow**  
-- 🤝 Open to collaborations, internships, and full-time roles in **Data Science & Analytics**  
+- 🤝 Open to collaborations and full-time roles in **Data Science & Analytics**  
 
 ---
 
@@ -44,9 +48,18 @@
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="mailto:rapeti.sa@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:rapeti.saii@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-rapeti.saii@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/sai-rapeti19/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sai--rapeti19-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/rapetisai">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-rapetisai-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/rapetisai?tab=repositories">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Projects-4CAF50?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
