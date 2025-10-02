@@ -2,7 +2,7 @@
 <h3 align="center">Graduate Student in Data Analytics Engineering | Aspiring Data Scientist & Business Intelligence Analyst</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="589" alt="coding gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="499" alt="coding gif">
 </p>
 
 ---
